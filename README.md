@@ -1,4 +1,4 @@
-# [Data and Personalization: The Marketplace Holy Grail](extractconf.com)
+# [Data and Personalization: The Marketplace Holy Grail](http://extractconf.com)
 
 # [Extract 2015 : Data Stories Worth Sharing](http://extractconf.com/)
 
